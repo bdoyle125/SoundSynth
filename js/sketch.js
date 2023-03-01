@@ -1,5 +1,7 @@
 let slider;
 
+// Video Link: https://youtu.be/yLDIiiHlpAU 
+
 // Instrument
 const synth = new Tone.DuoSynth({
   "vibratoAmount"  : 0.5 ,
