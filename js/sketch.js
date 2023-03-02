@@ -113,3 +113,7 @@ function keyPressed() {
   
 
 }
+
+function mousePressed() {
+	Tone.start();
+}
